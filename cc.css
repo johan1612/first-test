@@ -1,0 +1,60 @@
+body {
+    background-image: url("hi.jpg");
+	
+}
+
+h1 {
+    color: maroon;
+	text-align: center;
+	font-size: 3.75em;
+	text-shadow: 1px 3px gray;
+	font-family: Impact, Charcoal, sans-serif;
+	letter-spacing: 2px;
+	font-variant: small-caps;
+}
+
+s {
+	padding: 2000px;
+}
+
+p {
+	color: black;
+	text-align: center;
+}
+
+a:link, a:visited {
+    background-color: maroon;
+    color: red;
+    padding: 14px 25px;
+    text-align: center;
+	font-size: 1.5em;
+    text-decoration: none;
+    display: inline-block;
+	font-family: Impact, Charcoal, sans-serif;
+	font-variant: small-caps;
+	
+}
+
+
+a:hover, a:active {
+    background-color: red;
+	color: maroon;
+}
+
+
+/*
+b:link, a:visited {
+	background-color: ;
+	color: ;
+	padding: ;
+	text-align: ;
+	font-size: ;
+	text-decoration: ;
+	display: ;
+	font-family: ;
+	font-variant: ;
+}
+*/
+
+
+	
